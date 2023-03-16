@@ -54,7 +54,7 @@ section {
     padding-left: 30px;
     line-height: 2em;
     font-family: var(--fonte03);
-    font-size: 2vw;
+    font-size: 2em;
 }
 
 section > p {
@@ -66,7 +66,7 @@ section.normal {
     padding-top: 10vh;
     padding-bottom: 10vh;
     font-family: var(--fonte03);
-    font-size: 2vw;
+    font-size: 2em;
 }
 
 section.imagem {
@@ -75,7 +75,7 @@ section.imagem {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.432);
     background-size: cover;
     background-attachment: fixed;
-    font-size: 2vw;
+    font-size: 2em;
 }
 
 section.imagem > p {
